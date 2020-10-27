@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/jitesh-jain-1451b9192/">
   <img align="left" alt="JJ's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@jitesh_j">
+<a href="https://jitesh-j.medium.com/">
   <img align="left" alt="JJ's Medium" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
