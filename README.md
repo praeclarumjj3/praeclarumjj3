@@ -17,11 +17,14 @@
 
 <img src='https://media.tenor.com/images/a53e378bb32fdbcabd28565ae799cfd5/tenor.gif?itemid=15912640' width="200px" align='right'>
 
-- 🖥️ I’m currently working on a few research projects.
+- 🖥️ I’m currently working as a **Visiting Student Researcher** at **University of Oregon**.
 - 💬 Want to discuss about AI, non-fiction books, pop music or anything? Reach out to me!
 - 📫 How to reach me: jitesh_j@cs.iitr.ac.in
 - ⚡ Fun fact: The world system is a product of the mighty human imagination and trust!
 
 </br>
 
-![Jitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praeclarumjj3&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=praeclarumjj3&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=praeclarumjj3&hide=css,java,html&theme=tokyonight&line_height=27">
+</p>
