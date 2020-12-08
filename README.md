@@ -1,13 +1,13 @@
 ### Hey 😄, [JJ](https://praeclarumjj3.github.io/) here!
 
 <a href="https://twitter.com/jiteshjain31">
-  <img align="left" alt="JJ's Twitter" width="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img align="left" alt="JJ's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/jitesh-jain-1451b9192/">
-  <img align="left" alt="JJ's Linkdein" width="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="JJ's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://jitesh-j.medium.com/">
-  <img align="left" alt="JJ's Medium" width="25px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <img align="left" alt="JJ's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=praeclarumjj3.praeclarumjj3)
