@@ -1,6 +1,6 @@
 ### Hey 😄, [JJ](https://praeclarumjj3.github.io/) here!
 
-<a href="https://twitter.com/jiteshjain31">
+<a href="https://twitter.com/praeclarumjj">
   <img align="left" alt="JJ's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/jitesh-jain-1451b9192/">
@@ -17,7 +17,7 @@
 
 <img src='https://media.tenor.com/images/a53e378bb32fdbcabd28565ae799cfd5/tenor.gif?itemid=15912640' width="200px" align='right'>
 
-- 🖥️ I’m currently working as a **Visiting Student Researcher** at **University of Oregon**.
+- 🖥️ I’m currently working as a **Visiting Student Researcher** at **University of Oregon**. 
 - 💬 Want to discuss about AI, non-fiction books, pop music or anything? Reach out to me!
 - 📫 How to reach me: jitesh_j@cs.iitr.ac.in
 - ⚡ Fun fact: The world system is a product of the mighty human imagination and trust!
@@ -26,5 +26,5 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=praeclarumjj3&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=praeclarumjj3&hide=css,html,jupyter%20notebook&theme=tokyonight&line_height=27&layout=compact&langs_count=8">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=praeclarumjj3&hide=css,html&theme=tokyonight&line_height=27&layout=compact&langs_count=8">
 </p>
