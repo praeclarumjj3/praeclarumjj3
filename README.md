@@ -19,7 +19,7 @@
 
 - 🖥️ I’m currently working as a *Visiting Student Researcher* at **[SHI Lab, University of Oregon](https://www.humphreyshi.com/people)** and as a *Research Intern* at **[Picsart](https://picsart.com/)**.
 - 💬 Want to discuss about AI, non-fiction books, pop music or anything? Reach out to me!
-- 📫 Wite to me: [jitesh_j@cs.iitr.ac.in](mailto:jitesh_j@cs.iitr.ac.in)
+- 📫 Write to me: [jitesh_j@cs.iitr.ac.in](mailto:jitesh_j@cs.iitr.ac.in)
 - ⚡ Fun fact: The world system is a product of the mighty human imagination and trust!
 
 </br>
