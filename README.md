@@ -17,12 +17,12 @@
 
 <img src='https://media.tenor.com/images/a53e378bb32fdbcabd28565ae799cfd5/tenor.gif?itemid=15912640' width="200px" align='right'>
 
-- 🖥️ I’m currently working as a *Research Intern* at **[SHI Labs](https://www.shi-labs.com/)**.
-- 💬 Want to discuss about AI, non-fiction books, pop music or anything? Reach out to me!
-- 📫 Write to me: [jitesh_j@cs.iitr.ac.in](mailto:jitesh_j@cs.iitr.ac.in)
+- 🖥️ I’m currently researching at **[SHI Labs](https://www.shi-labs.com/)**.
+- 💬 Want to discuss AI, books, pop music, or anything? Reach out to me!
+- 📫 Write to me: [jitesh.jj2@gmail.com](mailto:jitesh.jj2@gmail.com)
 - ⚡ Fun fact: The world system is a product of the mighty human imagination and trust!
 
-</br>
+<!--</br>
 
 <a href="https://github.com/praeclarumjj3/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=praeclarumjj3&count_private=true&show_icons=true&theme=tokyonight&line_height=27" />
